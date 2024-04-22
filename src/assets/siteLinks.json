@@ -4,4 +4,9 @@
     "name": "AI",
     "link": "https://chat.wzhcc.cn/"
   }
+    {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://hexo.wzhcc.cn/"
+  }
 ]
